@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../3dparty/FreeSerif.ttf</file>
+        <file>../3dparty/icon.png</file>
+    </qresource>
+</RCC>
